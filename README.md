@@ -13,11 +13,6 @@
 3. Click **"Load Temporary Add-on"**.
 4. Select the `manifest.json` file from the project folder.
 
-### Permanent Installation (Manual)
-1. Zip the project folder.
-2. Navigate to `about:addons` in Firefox.
-3. Enable **Developer Mode**.
-4. Load the zipped extension.
 
 ## Usage
 1. Open Google Search.
