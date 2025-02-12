@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "100Results",
+    "version": "1.0",
+    "description": "Automatically appends &num=100 to Google searches to display 100 results per page.",
+    "icons": {
+      "48": "icons/icon-48.png",
+      "96": "icons/icon-96.png"
+    },
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "tabs"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    }
+  }
