@@ -1,3 +1,8 @@
+#💀💀💀
+
+
+https://duckduckgo.com/?q=google+disabled+100+results&t=ffab&ia=web
+
 # 100Results Firefox Extension
 
 ## Overview
